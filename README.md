@@ -70,7 +70,9 @@ Python en Jupyter Notebook
   Los gráficos utilizados para el proyecto fueron los gráficos de barra y gráficos circulares. debido a que son los más útiles al momento de presentar los resultados del análisis. 
 
 ## Resultados y Conclusiones:
+  La clasificación de empresas tecnológicas según su nivel de volatilidad, variación de precios y volumen de negociación, permite identificar los niveles de riesgo de cada una. Empresas como Tesla y Netflix  presentan mayores riesgos debido a su alta volatilidad, mientras que otras como Apple y Microsoft son más estables. Esta información ayuda a los inversionistas a evaluar qué empresas se alinean mejor con su perfil de riesgo.
 
+Para los inversionistas conservadores, se recomienda enfocarse en empresas estables con menor riesgo, como Apple y Microsoft. Por otro lado, los inversionistas activos, que buscan mayores retornos, pueden considerar empresas más riesgosas como Tesla y Netflix, siempre manteniendo un control sobre los riesgos asumidos. Una estrategia diversificada, combinando ambos tipos de empresas, puede ser una opción ideal para equilibrar riesgo y rendimiento.
 
 ## Enlaces de interés:
 [Presentación Power BI](https://drive.google.com/file/d/1e44p6GRHkyoiD3R5H2_udV73olTpoUqd/view?usp=sharing)
