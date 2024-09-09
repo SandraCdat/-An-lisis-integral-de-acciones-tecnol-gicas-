@@ -1,2 +1,2 @@
-# -An-lisis-integral-de-acciones-tecnol-gicas-
+# "Análisis integral de acciones tecnológicas"
 Identificar oportunidades de inversión y riesgo
